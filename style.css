@@ -1,0 +1,99 @@
+	
+		.image{
+			margin-top:100px;
+			margin-left: 200px;
+		}
+		
+		.search_bar{
+			width:60%;
+			height: 30px;
+			margin-left: 180px;
+			border-radius: 50px;
+			display: flex;
+			border:1px solid lightgrey;
+
+
+		}
+		.links{
+			float: right;
+			margin-top: 10px;
+			
+		}
+	a{
+		text-decoration: none;
+		color: auto;
+	}
+
+	.search_buttons {
+		 	justify-content: center;
+		 	display: flex;
+		 	margin-top: 20px;
+
+		 }
+
+		 .search_buttons ::first-child{
+		 	margin-left: 500px;
+		 }
+		 p {
+		 	justify-content: center;
+		 	display: flex;
+		 	margin-top: 20px;	
+		 }
+
+		.form p input {
+		 	width: 60%;
+		 	height: 30px;
+		 	padding: 12px, 2px;
+		 	margin: 8px 0;
+		 	display: inline-block;
+		 	border-radius: 4px;
+		 	border:1px solid  lightblue;
+		 	box-sizing: border-box;
+			margin-left: 80px;
+
+		 }
+
+		 .form p input a:hover{
+		 	border-color: lightblue;
+		 }
+		 .form{
+		 	float: left;
+		 }
+		 #tano{
+		 	margin-left: 40px;
+		 }
+		
+		#tano  input{
+			width: 50%;
+		}
+		h4{
+			margin-left: 40px;
+		}
+		h3{
+margin-top: 30px;
+		}
+		#tanoo
+		{
+			margin-left: 150px;
+
+		}
+
+		 #tanou{
+			margin-left:600px;
+		}
+		 .final{
+		 	margin-left: 400px;
+		 } 
+
+
+
+
+		 #search{
+		 	justify-content: center;
+		 	position: center;
+		 	display: flex;
+		 	background-color: #6495ED;
+		 	height: 30px;
+		 	margin-top:30px;
+		 	border-radius: 6px;
+		 }
